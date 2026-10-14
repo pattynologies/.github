@@ -92,4 +92,5 @@ People with access to the private Platform repository add a page there.
 - 0034. Angular 22 inside the Nyxkin gitlink — Accepted
 - 0035. Nyxkin hall names live in DynamoDB — Accepted
 - 0036. Pattynologies code promotes by artifact version — Accepted
+- 0037. The organization profile maps private documentation — Accepted
 <!-- adr-index:end -->
